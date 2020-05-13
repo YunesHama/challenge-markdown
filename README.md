@@ -1,6 +1,7 @@
 # YUNES HAMA
 
 *You can't wake up someone who\'s pretending to be asleep*
+         -Mark Twain
 
 ![foto Yunes](https://github.com/YunesHama/challenge-markdown/blob/master/Yunes.jpg)
 
@@ -10,7 +11,7 @@
 |---|---|
 | Birthday |15/04|
 |Gender| Male
-|Favorite color|Maroon blue
+|Favorite color|Cyan blue
 |Favorite food |Gelato
 | Pineapple on pizza? | <ul><li>[x] Perque no</li><li>[ ] no</li></ul>|
 
