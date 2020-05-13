@@ -13,7 +13,7 @@
 |Gender| Male
 |Favorite color|Cyan blue
 |Favorite food |Gelato
-| Pineapple on pizza? | <ul><li>[x] Perque no</li><li>[ ] no</li></ul>|
+| Pineapple on pizza? | <ul><li>[x] Perché no</li><li>[ ] no</li></ul>|
 
 ### Hobbies
 
